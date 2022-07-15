@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    /* font-family: "Times New Roman", Times, serif; */
+}
+
+.form-control {
+  border: none !important;
+  outline: none !important;
+  background-color: rgb(93, 93, 93) !important;
+  border-radius: 0px !important;
+}
+select{
+  -webkit-appearance: listbox !important
+}
